@@ -43,11 +43,11 @@ location
 ### History
 The history object has some methods to control the navigation in the browser, and it also maintains the history of the routes we navigated.
 It has the following methods to control the navigation in the browser:
-push()
-replace()
-go()
-goBack()
-goForward(), etc.
+  push()
+  replace()
+  go()
+  goBack()
+  goForward(), etc.
 The history.push() and history.replace() methods are used to navigate to other routes programmatically.
 
 ### history.push()
